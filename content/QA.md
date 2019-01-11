@@ -21,14 +21,14 @@
 
 ### URLの入力誤り
 Git Repository URLに入力しているURLが正しいかを確認してください。
-入力するURLは `https://gitlab.com/tiscon4/tiscon4-pre.git` です。
+入力するURLは `https://github.com/tiscon/tiscon4-pre.git` です。
 
 ### Gitインストールが完了していない
 コマンドプロンプトで `git --version` と入力し、gitのバージョン情報が表示されるか確認してください。
 表示されない場合、Gitのインストールに失敗しています。Gitのインストールを行ってください。
 
 ## IntelliJのフォルダ表示と実際の内容が違う
-cloneが成功すると、 [tiscon4-preのトップページ](https://gitlab.com/tiscon4/tiscon4-pre) に表示されるのと同じ、フォルダとファイルが手に入ります。
+cloneが成功すると、 [tiscon4-preのトップページ](https://github.com/tiscon/tiscon4-pre) に表示されるのと同じ、フォルダとファイルが手に入ります。
 
 しかしIntelliJに表示される内容がそれに沿わないことがあります。その時は以下を順番に確認してください。
 
