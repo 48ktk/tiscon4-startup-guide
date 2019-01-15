@@ -7,8 +7,8 @@
 ## インストール
 
 1. https://www.jetbrains.com/idea/#chooseYourEdition のDOWNLOADボタンから、**Community** のバージョンを選んでダウンロードしてください。
-1. ダウンロードできたインストーラーを起動して、表示される手順に従ってインストールを進めてください。下記の画面が表示されたら[Skip Remaining and Defaults]を選択してください。<br>
-![起動中](../image/intelliJ_install.png)
+1. ダウンロードできたインストーラーを起動して、表示される手順に従ってインストールを進めてください。下記の画面が表示されたら[Skip Remaining and Set Defaults]を選択してください。<br>
+![UIテーマ選択](../image/intelliJ_install.png)
 よくわからない項目は変更せずに進めて構いません(Next, OK, Install 等)。
 
 ## IntelliJの実行
@@ -21,7 +21,7 @@
 ![起動中](../image/intelliJ_Loading.png)
 
 起動が完了すると下記のような画面が表示されます。<br>
-![起動中](../image/intelliJ_welcome.png)
+![起動後](../image/intelliJ_welcome.png)
 
 ## SDKの設定
 
