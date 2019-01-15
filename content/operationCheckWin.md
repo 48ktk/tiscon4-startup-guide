@@ -14,7 +14,7 @@
 ### 1. IntelliJでプロジェクトをcloneする
 
 1. ユーザフォルダ配下に `IdeaProjects` フォルダを作成します。
-    - (例) `/Users/ユーザ名/IdeaProjects`
+    - (例) `/ユーザー/ユーザ名/IdeaProjects`
 1. IntelliJを起動し、 `Check out from Version Control > Git` を選択します。
 1. URLに `https://github.com/tiscon/tiscon4-pre.git` を入力します。<br>
 ![クローン](../image/intelliJ_cloneRepository.png)
