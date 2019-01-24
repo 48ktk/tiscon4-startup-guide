@@ -25,3 +25,7 @@ Terminalは、以下の手順で起動できます。
 
 開いたダイアログのCommand lineに実行したいコマンドを入力します。<br/>
 **[Execute]** ボタンを押しコマンドを実行します。
+
+### propertiesファイルを日本語で表示する
+下記サイトを参考に、propertiesファイルを日本語で表示してください。
+> [IntelliJ IDEAでpropertiesファイルを日本語(各国の言語)で表示する](https://qiita.com/tamura__246/items/7adc91b85abd4d0bb72b)
